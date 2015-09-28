@@ -1,0 +1,12 @@
+[
+  {
+    "username":"ssnape",
+    "first_name": "Severus",
+    "middle_name": "",
+    "last_name": "Snape",
+    "gender": "male",
+    "email": "ssnape@hogwarts.edu.uk",
+    "role": "faculty",
+    "password": "password"
+  }
+]
